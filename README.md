@@ -19,7 +19,7 @@
 - [NetSniffPy: Python Network Packet Sniffing Solution](https://github.com/CelestialScripter/Python--Packet-sniffer)
 - [Python SecureKeyLogger](https://github.com/Udohekere/Python-Keylogger)
 - [WebScout - Cybersecurity Job Search Automation](https://github.com/Udohekere/Python-Webscraper)
-- [Python Sleuth - Skype Message Data Recovery](Python Sleuth - Skype Message Data Recovery)
+- [Python Sleuth - Skype Message Data Recovery](https://github.com/Udohekere/Python-Data-Recovery)
 
 ### MACHINE LEARNING PROJECT
 - [Hybrid-based Network Intrusion Detection System using Machine Learning](https://github.com/CelestialScripter/Hybrid-Based-NIDS-using-Machine-Learning)
