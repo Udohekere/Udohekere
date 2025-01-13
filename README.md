@@ -52,10 +52,10 @@
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISM-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certified%20Container%20Security%20Specialist%20%7C%20Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certified%20Specialist%20Vulnerability%20Management%20%7C%20Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certified%20Cloud%20Security%20Assessment%20and%20Response%20Specialist%20%7C%20Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cyber%20Threat%20Management%20%7C%20Cisco%20Networking%20Academy-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20Container%20Security%20Specialist%20%7C%20-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20Specialist%20Vulnerability%20Management%20%7C%20-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20Cloud%20Security%20Assessment%20and%20Response%20Specialist%20%7C%20-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cyber%20Threat%20Management%20%7C%20-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 
 </div>
