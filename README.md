@@ -28,6 +28,9 @@
 - [Staff Payroll Management System](https://github.com/Udohekere/Staff-Payroll-Management-System)
 - [E-commerce-website-Admin-panel](https://github.com/Udohekere/E-commerce-website-Admin-panel-)
 
+
+## TOOLS
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -46,7 +49,44 @@
 
 
 </div>
+### OTHER-TOOLS:
+<div>
+    <img src="https://img.shields.io/badge/-Sophos-FF0000?&style=for-the-badge&logo=Sophos&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-FF0000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20IAM-FF0000?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-FF0000?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rapid7%20InsightVM-FF0000?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-FF0000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF0000?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-FF0000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-FatRat-FF0000?&style=for-the-badge&logo=FatRat&logoColor=white" />
+<img src="https://img.shields.io/badge/-MS%20Purview-FF0000?&style=for-the-badge&logo=Microsoft%20Purview&logoColor=white" />
+<img src="https://img.shields.io/badge/-Priva-FF0000?&style=for-the-badge&logo=Microsoft%20Priva&logoColor=white" />
+<img src="https://img.shields.io/badge/-Entra-FF0000?&style=for-the-badge&logo=Microsoft%20Entra&logoColor=white" />
+<img src="https://img.shields.io/badge/-SIEM-FF0000?&style=for-the-badge&logo=SIEM&logoColor=white" />
+<img src="https://img.shields.io/badge/-IDS-FF0000?&style=for-the-badge&logo=IDS&logoColor=white" />
+<img src="https://img.shields.io/badge/-IPS-FF0000?&style=for-the-badge&logo=IPS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Crowdstrike-FF0000?&style=for-the-badge&logo=Crowdstrike&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rapid7-FF0000?&style=for-the-badge&logo=Rapid7&logoColor=white" />
+<img src="https://img.shields.io/badge/-Falcon-FF0000?&style=for-the-badge&logo=Falcon&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20Sentinel-FF0000?&style=for-the-badge&logo=Azure%20Sentinel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tanium-FF0000?&style=for-the-badge&logo=Tanium&logoColor=white" />
+<img src="https://img.shields.io/badge/-Threadfix-FF0000?&style=for-the-badge&logo=Threadfix&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-FF0000?&style=for-the-badge&logo=Nessus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Aqua-FF0000?&style=for-the-badge&logo=Aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sonar%20Cloud-FF0000?&style=for-the-badge&logo=SonarQube&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP%20ZAP-FF0000?&style=for-the-badge&logo=OWASP%20ZAP&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bridgecrew-FF0000?&style=for-the-badge&logo=Bridgecrew&logoColor=white" />
+<img src="https://img.shields.io/badge/-Veracode-FF0000?&style=for-the-badge&logo=Veracode&logoColor=white" />
+<img src="https://img.shields.io/badge/-Snyk-FF0000?&style=for-the-badge&logo=Snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Checkmarx-FF0000?&style=for-the-badge&logo=Checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortify-FF0000?&style=for-the-badge&logo=Fortify&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitSecrets-FF0000?&style=for-the-badge&logo=GitSecrets&logoColor=white" />
 
+</div>
 
 ## Certifications
 <div>
