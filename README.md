@@ -1,17 +1,32 @@
 # Hi, I'm Udohekere!👋
 **Programmer, Cybersecurity Professional** 
 
-I'm Udohekere, a Cybersecurity Analyst specializing in DevSecOps and Cloud Security Engineering. I'm passionate about building secure and resilient systems in the cloud. Here's a little bit about me:
+---
 
-    🔭 I’m currently working on developing an Hybrid-based Network Intrusion Detection System using machine learning to enhance security in cloud environments.
-    🌱 I’m currently learning Python, specifically focusing on its applications in cloud security and automation.
-    👯 I’m looking to collaborate on building innovative cybersecurity tools using Machine Learning techniques for cloud security and DevSecOps practices.
-    🤔 I’m looking for help with Python programming, especially related to cloud security and DevOps tooling.
-    💬 Ask me about HTML, CSS, PHP and Python as I have experience in web development and programming languages.
-    📫 You can reach me at Udohekerenkene@gmail.com. Feel free to connect with me for any discussions or collaborations related to DevSecOps or cloud security engineering!
-    ⚡ Fun fact: In addition to my cybersecurity interests, I enjoy exploring various genres of music, watching movies, conducting research, and staying up-to-date with the latest developments in cybersecurity.
+## 🖥️ Software Development Projects:
+### AWS SECURITY PROJECTS
+- [AWS Security Policies](https://github.com/CelestialScripter/AWS-Security-Policies)
+- [Implementing a Secure CI/CD Pipeline for Java Applications using AWS CodePipeline](https://github.com/CelestialScripter/Java_AWS_Project)
+- [Infrastructure Automation and Security Integration with Terraform and Jenkins on Amazon EC2](https://github.com/CelestialScripter/aws-cicd-jenkins-terraform-pipeline-)
 
-Feel free to explore my projects and reach out to me for any collaboration opportunities or discussions related to DevSecOps or cloud security engineering. Let's build secure and resilient cloud systems together! 🛡️
+  
+### DEVSECOPS PROJECTS
+- [Automated Integration of Security Tools for Enhanced Application Security in Jenkins CI/CD](https://github.com/CelestialScripter/Devsecops-jenkins--CI-CD-pipeline)
+- [Automated Secure DevOps Pipeline for c# Applications with SAST, SCA, DAST Scanning, and Git Workflow](https://github.com/CelestialScripter/C--Project-e2e-DevSecops)
+
+
+### PYTHON PROJECTS
+- [NetSniffPy: Python Network Packet Sniffing Solution](https://github.com/CelestialScripter/Python--Packet-sniffer)
+- [Python SecureKeyLogger](https://github.com/Udohekere/Python-Keylogger)
+- [WebScout - Cybersecurity Job Search Automation](https://github.com/Udohekere/Python-Webscraper)
+- [Python Sleuth - Skype Message Data Recovery](Python Sleuth - Skype Message Data Recovery)
+
+### MACHINE LEARNING PROJECT
+- [Hybrid-based Network Intrusion Detection System using Machine Learning](https://github.com/CelestialScripter/Hybrid-Based-NIDS-using-Machine-Learning)
+
+### Full Stack Web App (HTML,CSS, PHP,AJAX,JAVASCRIPT)
+- [Staff Payroll Management System](https://github.com/Udohekere/Staff-Payroll-Management-System)
+- [E-commerce-website-Admin-panel](https://github.com/Udohekere/E-commerce-website-Admin-panel-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
