@@ -1,5 +1,6 @@
 # Hi, I'm Udohekere!👋
-**Programmer, Cybersecurity Professional** 
+**[Programmer](https://github.com/Udohekere)**, **[Cybersecurity Professional](https://www.linkedin.com/in/udohekere-nkene/)**
+
 
 ---
 
