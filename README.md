@@ -37,6 +37,17 @@
 
 </div>
 
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-CloudWatch-FF4F8B?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Datadog-632CA6?&style=for-the-badge&logo=Datadog&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LogPoint-0082C9?&style=for-the-badge&logo=LogPoint&logoColor=white" />
+
+
+</div>
+
 
 
 <h3 align="left">🤳 Connect with me:</h3>
