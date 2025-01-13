@@ -133,14 +133,8 @@
 <p align="left">
   <a href="https://twitter.com/_Nkene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wysrenee" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/udohekere-nkene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley olika" height="30" width="40" /></a>
-  <a href="mailto:udohekerenkene@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-</a>
-<a href="https://t.me/Udohekere" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram handle" height="30" width="40" />
-</a>
-
-  </a>
+  <a href="mailto:udohekerenkene@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="udohekerenkene@gmail.com" height="30" width="40" /></a>
+  <a href="https://t.me/Udohekere" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Udohekere" height="30" width="40" /></a>
   <a href="https://discord.com/users/your-discord-id" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your-discord-id" height="30" width="40" />
   </a>
