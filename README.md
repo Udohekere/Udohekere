@@ -9,6 +9,7 @@
 - [AWS Security Policies](https://github.com/CelestialScripter/AWS-Security-Policies)
 - [Implementing a Secure CI/CD Pipeline for Java Applications using AWS CodePipeline](https://github.com/CelestialScripter/Java_AWS_Project)
 - [Infrastructure Automation and Security Integration with Terraform and Jenkins on Amazon EC2](https://github.com/CelestialScripter/aws-cicd-jenkins-terraform-pipeline-)
+- [AWS Secure Devops Integration ](https://github.com/Udohekere/Deployment-Pipeline-for-AWS-DevOps)
 
   
 ### DEVSECOPS PROJECTS
