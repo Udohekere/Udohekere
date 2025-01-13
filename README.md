@@ -1,4 +1,5 @@
-### Hi there! 👋
+# Hi, I'm Udohekere!👋
+**Programmer, Cybersecurity Professional** 
 
 I'm Udohekere, a Cybersecurity Analyst specializing in DevSecOps and Cloud Security Engineering. I'm passionate about building secure and resilient systems in the cloud. Here's a little bit about me:
 
