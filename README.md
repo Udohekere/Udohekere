@@ -28,7 +28,7 @@
 - [Staff Payroll Management System](https://github.com/Udohekere/Staff-Payroll-Management-System)
 - [E-commerce-website-Admin-panel](https://github.com/Udohekere/E-commerce-website-Admin-panel-)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤳 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_Nkene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wysrenee" height="30" width="40" /></a>
 <a href="inkedin.com/in/udohekere-nkene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashley olika" height="30" width="40" /></a>
