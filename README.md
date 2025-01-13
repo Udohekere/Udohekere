@@ -4,7 +4,7 @@
 
 ---
 
-## 🖥️ Software Development Projects:
+## 👨‍💻 Software Development Projects:
 ### AWS SECURITY PROJECTS
 - [AWS Security Policies](https://github.com/CelestialScripter/AWS-Security-Policies)
 - [Implementing a Secure CI/CD Pipeline for Java Applications using AWS CodePipeline](https://github.com/CelestialScripter/Java_AWS_Project)
