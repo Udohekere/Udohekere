@@ -48,6 +48,13 @@
 </div>
 
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISM-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
+
+</div>
+
 
 <h3 align="left">🤳 Connect with me:</h3>
 <p align="left">
