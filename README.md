@@ -28,6 +28,32 @@
 - [Staff Payroll Management System](https://github.com/Udohekere/Staff-Payroll-Management-System)
 - [E-commerce-website-Admin-panel](https://github.com/Udohekere/E-commerce-website-Admin-panel-)
 
+## Skills
+| **Skill**                                                   | **Details**                                                       |
+|-------------------------------------------------------------|-------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis                        | Implementation and analysis of SIEM systems like Splunk, Sentinel |
+| Network Traffic Monitoring and Attack Detection             | Monitoring network traffic for malicious activities                |
+| Security Automation with Shuffle SOAR                       | Automating security workflows with Shuffle SOAR                   |
+| Incident Response Planning and Execution                    | Planning and executing incident response protocols                |
+| Vulnerability Management and Threat Hunting                 | Managing vulnerabilities and hunting threats                      |
+| Malware Analysis and Investigation                          | Analyzing and investigating malware incidents                     |
+| Security Awareness Training                                 | Conducting training to raise awareness of security practices      |
+| Cloud Security (AWS, Azure, GCP)                            | Managing security in cloud environments like AWS, Azure, GCP      |
+| Endpoint Protection (Crowdstrike, Rapid7, Falcon)            | Protecting endpoints with tools like Crowdstrike and Rapid7       |
+| Security Incident Investigation and Response                | Investigating and responding to security incidents               |
+| SIEM Tools (Splunk, Azure Sentinel, CloudWatch)             | Working with SIEM tools like Splunk, Azure Sentinel, CloudWatch   |
+| Security Policy Development and Compliance (HIPAA, FDA, GDPR, OWASP) | Developing policies in line with compliance regulations (HIPAA, FDA, GDPR) |
+| Risk Analysis and Security Audits                           | Performing risk assessments and security audits                   |
+| IDS/IPS Implementation and Monitoring                       | Implementing and monitoring IDS/IPS systems                       |
+| Automation and Scripting (PHP, Python, Bash, PowerShell)     | Writing automation scripts using languages like PHP, Python, Bash, PowerShell |
+| Security Vulnerability Scanning (Qualys, Tanium, Nessus, Threadfix) | Scanning systems for vulnerabilities using tools like Qualys, Nessus |
+| Penetration Testing and Exploit Development (Metasploit, Burp Suite, Nmap) | Performing penetration tests and exploiting vulnerabilities with tools like Metasploit, Burp Suite, Nmap |
+| Docker and Kubernetes Security                              | Securing Docker containers and Kubernetes environments           |
+| Microsoft 365 and Cloud Security (MS Purview, Priva, Entra) | Securing Microsoft 365 and cloud platforms like MS Purview and Entra |
+| Project Management and Support in Security Operations       | Managing security projects and providing operational support     |
+
+
+
 
 ## SECURITY TOOLS
 
