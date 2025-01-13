@@ -28,6 +28,17 @@
 - [Staff Payroll Management System](https://github.com/Udohekere/Staff-Payroll-Management-System)
 - [E-commerce-website-Admin-panel](https://github.com/Udohekere/E-commerce-website-Admin-panel-)
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-DC1C2E?&style=for-the-badge&logo=Qualys&logoColor=white" />
+
+</div>
+
+
+
 <h3 align="left">🤳 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_Nkene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wysrenee" height="30" width="40" /></a>
