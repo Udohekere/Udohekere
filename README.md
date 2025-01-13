@@ -15,20 +15,20 @@
 - [Automated Secure DevOps Pipeline for c# Applications with SAST, SCA, DAST Scanning, and Git Workflow](https://github.com/CelestialScripter/C--Project-e2e-DevSecops)
 
 
-### PYTHON PROJECTS
+### PYTHON SECURITY PROJECTS
 - [NetSniffPy: Python Network Packet Sniffing Solution](https://github.com/CelestialScripter/Python--Packet-sniffer)
 - [Python SecureKeyLogger](https://github.com/Udohekere/Python-Keylogger)
 - [WebScout - Cybersecurity Job Search Automation](https://github.com/Udohekere/Python-Webscraper)
 - [Python Sleuth - Skype Message Data Recovery](https://github.com/Udohekere/Python-Data-Recovery)
 
-### MACHINE LEARNING PROJECT
+### MACHINE LEARNING NETWORK-SECURITY PROJECT
 - [Hybrid-based Network Intrusion Detection System using Machine Learning](https://github.com/CelestialScripter/Hybrid-Based-NIDS-using-Machine-Learning)
 
 ### Full Stack Web App (HTML,CSS, PHP,AJAX,JAVASCRIPT)
 - [Staff Payroll Management System](https://github.com/Udohekere/Staff-Payroll-Management-System)
 - [E-commerce-website-Admin-panel](https://github.com/Udohekere/E-commerce-website-Admin-panel-)
 
-## Skills
+## SKILLS
 | **Skill**                                                   | **Details**                                                       |
 |-------------------------------------------------------------|-------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis                        | Implementation and analysis of SIEM systems like Splunk, Sentinel |
@@ -115,7 +115,7 @@
 
 </div>
 
-## Certifications
+## CERTIFICATIONS
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISM-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
