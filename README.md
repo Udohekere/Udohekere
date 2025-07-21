@@ -142,7 +142,7 @@
       width="40"
     />
   </a>
-  <a href="https://t.me/Udohekere" target="_blank">
+  <a href="" target="_blank">
     <img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
