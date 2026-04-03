@@ -187,17 +187,8 @@
 <a href="https://openai.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI"/>
 </a>
-<a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/CrowdStrike_logo.svg" width="40" height="40" alt="CrowdStrike"/>
-</a>
-  <a href="https://suricata.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/suricata.svg" width="40" height="40" alt="Suricata"/>
-</a>
 <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
   <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" width="40" height="40" alt="Wazuh"/>
-</a>
-<a href="https://www.rapid7.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdnlogo.com/logos/r/69/rapid7.svg" width="40" height="40" alt="Rapid7"/>
 </a>
 <a href="https://yaml.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/YAML_logo_in_SVG_format.svg" width="40" height="40" alt="YAML"/>
