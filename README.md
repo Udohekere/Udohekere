@@ -199,10 +199,4 @@
   <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer">
   <img src="https://static.cdnlogo.com/logos/c/32/crowdstrike.svg" width="40" height="40" alt="CrowdStrike"/>
 </a>
-<a href="https://suricata.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.logokit.com/suricata.io.svg" width="40" height="40" alt="Suricata"/>
-</a>
-<a href="https://www.rapid7.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.logokit.com/rapid7.com.svg" width="40" height="40" alt="Rapid7"/>
-</a>
 </p>
