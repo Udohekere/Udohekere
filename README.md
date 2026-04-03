@@ -169,11 +169,17 @@
     <a href="https://snyk.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/snyk" width="40" height="40" alt="Snyk"/></a>
     <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/owasp" width="40" height="40" alt="OWASP ZAP"/></a>
     <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite"/></a>
-    <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sonarqube" width="40" height="40" alt="SonarQube"/></a>
+    <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40" alt="SonarQube"/></a>
     <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI"/></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
     <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/n8n" width="40" height="40" alt="n8n Automation"/></a>
-    <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/slack" width="40" height="40" alt="Slack"/></a>
+    <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack"/></a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jirasoftware" width="40" height="40" alt="Jira"/></a>
     <a href="https://asana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/asana" width="40" height="40" alt="Asana"/></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="40" height="40" alt="Laravel"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" alt="Ubuntu"/></a>
+<a href="https://www.bash.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/></a>
 </p>
