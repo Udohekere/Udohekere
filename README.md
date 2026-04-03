@@ -163,7 +163,6 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" alt="Terraform"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes"/></a>
-
     <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40" alt="Splunk"/></a>
     <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="ElasticSearch"/></a>
     <a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" width="40" height="40" alt="Wazuh"/></a>
@@ -172,11 +171,9 @@
     <a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40" height="40" alt="OWASP ZAP"/></a>
     <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/portswigger_burpsuite/portswigger_burpsuite-icon.svg" width="40" height="40" alt="Burp Suite"/></a>
     <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/crowdstrike/crowdstrike-icon.svg" width="40" height="40" alt="CrowdStrike"/></a>
-
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python"/></a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
     <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="AI Security/OpenAI"/></a>
-
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="40" height="40" alt="Laravel"/></a>
     <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack"/></a>
@@ -184,7 +181,6 @@
     <a href="https://asana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/asana/asana-icon.svg" width="40" height="40" alt="Asana"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/></a>
-
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" alt="Ubuntu"/></a>
     <a href="https://www.bash.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/></a>
