@@ -199,10 +199,10 @@
   <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer">
   <img src="https://static.cdnlogo.com/logos/c/32/crowdstrike.svg" width="40" height="40" alt="CrowdStrike"/>
 </a>
-<a href="https://suricata.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/suricata-1.svg" width="40" height="40" alt="Suricata"/>
+  <a href="https://suricata.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/suricata.svg" width="40" height="40" alt="Suricata"/>
 </a>
 <a href="https://www.rapid7.com/" target="_blank" rel="noreferrer">
-  <img src="https://static.cdnlogo.com/logos/r/69/rapid7.svg" width="40" height="40" alt="Rapid7"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rapid7.svg" width="40" height="40" alt="Rapid7"/>
 </a>
 </p>
