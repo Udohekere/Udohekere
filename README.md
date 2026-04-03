@@ -163,15 +163,12 @@
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/terraform" width="40" height="40" alt="Terraform"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" alt="Kubernetes"/></a>
-    <a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/wazuh" width="40" height="40" alt="Wazuh"/></a>
     <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/splunk" width="40" height="40" alt="Splunk"/></a>
-    <a href="https://www.crowdstrike.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/crowdstrike" width="40" height="40" alt="CrowdStrike"/></a>
     <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/elastic" width="40" height="40" alt="ElasticSearch"/></a>
     <a href="https://snyk.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/snyk" width="40" height="40" alt="Snyk"/></a>
     <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/owasp" width="40" height="40" alt="OWASP ZAP"/></a>
     <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite"/></a>
     <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40" alt="SonarQube"/></a>
-    <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI"/></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
     <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/n8n" width="40" height="40" alt="n8n Automation"/></a>
