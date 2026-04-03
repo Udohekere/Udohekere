@@ -195,6 +195,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" alt="Ubuntu"/></a>
 <a href="https://www.bash.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/></a>
+<a href="https://www.ssh.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://wazuh.com/" target="_blank" rel="noreferrer">
   <img src="https://wazuh.com/brand-assets/Wazuh-Logo.svg" width="40" height="40" alt="Wazuh"/>
 <a href="https://openai.com/" target="_blank" rel="noreferrer">
