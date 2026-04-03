@@ -115,6 +115,7 @@
     <img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Sentinel-FF0000?&style=for-the-badge&logo=Azure%20Sentinel&logoColor=white" />
 </div>
+
 ## CERTIFICATIONS
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
