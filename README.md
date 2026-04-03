@@ -159,6 +159,7 @@
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud" width="40" height="40" alt="GCP"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/></a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/terraform" width="40" height="40" alt="Terraform"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"/></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40" alt="Kubernetes"/></a>
@@ -179,6 +180,8 @@
     <a href="https://asana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/asana" width="40" height="40" alt="Asana"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" width="40" height="40" alt="Laravel"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" alt="Ubuntu"/></a>
 <a href="https://www.bash.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/></a>
